@@ -1,17 +1,17 @@
-Project name: Age Calculator
+Student introduction:
+My name is Tanisha, and I am a BCA (Bachelor of Computer Applications) student.As part of my academic learning, I developed this Age Calculator Web Application using HTML, CSS, and PHP. The purpose of this project is to apply my knowledgeand understand how PHP can be used to process user input and perform date calculations.
+Through this project, I learned about HTML forms, CSS styling, PHP programming, date and time functions, form validation, and running PHP applications using XAMPP.
 
-Introduction:
-A simple and user-friendly Age Calculator Web Application built using HTML, CSS, and PHP.
-The application allows users to enter their date of birth and calculates their exact age in years, months, and days. It also displays the day of the week on which the person was born.
+Project name: Age Calculator
 
 Project Overview:
 
 The Age Calculator is a beginner-friendly web development project designed to demonstrate the use of:
 
-HTML for webpage structure.
-CSS for styling and responsive design.
-PHP for date calculations and backend processing.
-XAMPP for running the PHP application locally.
+    HTML for webpage structure.
+    CSS for styling and responsive design.
+    PHP for date calculations and backend processing.
+    XAMPP for running the PHP application locally.
 
 The application provides an attractive interface where users can select their date of birth and instantly view their age and birth day.
 
@@ -31,6 +31,7 @@ The application prevents users from entering a future date as their date of birt
 
 User-Friendly Interface:
     The project includes:
+    
      1.Modern card-based design
      2.Gradient background
      3.Styled input field
