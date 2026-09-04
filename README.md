@@ -8,10 +8,10 @@ Project Overview:
 
 The Age Calculator is a beginner-friendly web development project designed to demonstrate the use of:
 
-HTML for webpage structure
-CSS for styling and responsive design
-PHP for date calculations and backend processing
-XAMPP for running the PHP application locally
+HTML for webpage structure.
+CSS for styling and responsive design.
+PHP for date calculations and backend processing.
+XAMPP for running the PHP application locally.
 
 The application provides an attractive interface where users can select their date of birth and instantly view their age and birth day.
 
